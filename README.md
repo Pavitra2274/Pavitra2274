@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi there👋, I'm Pavitra Dumpala</h1>
-<h3 align="center"><font color="#B28DE3">A Self-taught Software Engineer</font></h3>
-
-
-
+<h3 align="center">A Self-taught Software Engineer</h3>
 <h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
 
