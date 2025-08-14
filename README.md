@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hii )](https://git.io/typing-svg)
 <h1 align="center">Hi there👋, I'm Pavitra Dumpala</h1>
 <h3 align="center">A budding engineer from India</h3>
 <h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
