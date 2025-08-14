@@ -4,15 +4,17 @@
 <h3 align="center">A budding engineer from India</h3>
 <h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
+
 <p align="center">
-	<a href="?">Portfolio</a> - 
+	<a href="https://yourportfolio.com">Portfolio</a> - 
 	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> - 
 	<a href="mailto:pavitrarao2004@gmail.com">Email</a> - 
 	<a href="https://medium.com/@pavitrarao2274">Medium</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
-  
-<br><img width="1039" height="783" alt="image" src="https://github.com/user-attachments/assets/5f7da720-ee8d-425c-928d-6c703c7b05bf" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+<br>
 
 
