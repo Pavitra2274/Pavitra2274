@@ -12,9 +12,10 @@
 	<a href="https://medium.com/@pavitrarao2274">Medium</a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+</p>![Uploading image.png…]()
+
 <br>
 
 
