@@ -4,8 +4,9 @@
 <h1 align="center">Hi there👋, I'm Pavitra Dumpala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=15&pause=600&color=9A4DFF,C084FC,E9D5FF&width=435&lines=A+budding+engineer+from+India;Self-taught+Software+Engineer;Open-Source+Enthusiast;AI+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=600&color=B28DE3&width=435&lines=A+budding+engineer+from+India;Self-taught+Software+Engineer;Open-Source+Enthusiast;AI+Engineer;" alt="Typing SVG" />
 </p>
+
 
 <h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
