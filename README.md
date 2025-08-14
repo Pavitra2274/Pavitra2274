@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!--
-**Pavitra2274/Pavitra2274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there👋, I'm Pavitra Dumpala</h1>
+<h3 align="center">A budding engineer from India</h3>
+<h4 align="center">I'm currently an A.I. Research Intern @DRDO(SAG), New Delhi</h4>
+<h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Delhi-NCR, </h4>
+<p align="center">
+	<a href="?">Portfolio</a> - 
+	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> - 
+	<a href="mailto:contact@pavitrarao2004@gmail.com">Email</a> - 
+	<a href="https://medium.com/@pavitrarao2274">Medium</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vansh-codes&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="vansh-codes" /> </p>
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
