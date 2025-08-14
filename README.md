@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there👋, I'm Pavitra Dumpala</h1>
 <h3 align="center">A budding engineer from India</h3>
-<h4 align="center">I'm currently an A.I. Research Intern @ DRDO(SAG), New Delhi</h4>
+<h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
 <p align="center">
 	<a href="?">Portfolio</a> - 
