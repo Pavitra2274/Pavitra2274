@@ -28,13 +28,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
 </div>
-<br>
+<br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p><br>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f48fb1,100:ce93d8&height=100&section=footer"/>
 </p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDCCEC,100:FCFCFE&height=100&section=footer"/>
+</p>
+
 
 <!-- <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
