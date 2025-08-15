@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <p align="center">
-  <img src="images/img1.png" alt="Profile Banner" width="150"/>
+  <img src="Images/img1.png" alt="Profile Banner" width="150"/>
 </p>
 <h1 align="center">Hi there 👋, I'm Pavitra Dumpala</h1>
 <p align="center">
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pavitrarao2004@gmail.com?subject=Hello%20Pavitra,%20From%20Github">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@pavitrarao2274">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
