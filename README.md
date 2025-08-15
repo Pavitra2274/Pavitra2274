@@ -37,7 +37,7 @@
 </div>
 <br><br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=7289DA&style=for-the-badge" alt="Profile views" />   <!-- 0e75b6-->
+  <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=C9B4E3&style=for-the-badge" alt="Profile views" />   <!-- 0e75b6-->
 </p>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B4E3,100:D1D5F0&height=100&section=footer"/>
