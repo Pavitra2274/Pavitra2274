@@ -9,7 +9,9 @@
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
 
 <p align="center">
-  <a href="#">Portfolio</a> - 
+  <a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-af85e3?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="https://www.linkedin.com/in/pavitradumpala/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
