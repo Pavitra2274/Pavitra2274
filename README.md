@@ -15,13 +15,15 @@
 	<a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> -  -->
 	 
-	<a href="mailto:pavitrarao2004@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+	  <a href="mailto:pavitrarao2004@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="mailto:pavitrarao2004@gmail.com">Email</a> -  -->
 	
  <a href="https://medium.com/@pavitrarao2274">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://medium.com/@pavitrarao2274">Medium</a> -->
 
 </p>
 
@@ -30,6 +32,9 @@
 </p>
 
 <br>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Pavitra2274&theme=dark&hide_border=false)<br/>
+ -->
+
 
 
 
