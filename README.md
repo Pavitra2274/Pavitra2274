@@ -22,9 +22,6 @@
 </p>
 <br><br>
 
-
-<br>
-
 <h2 align="center"> My Progress</h2>
 
 <div align="center" style="margin-bottom: 30px;">
@@ -35,8 +32,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
-
-<br>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
