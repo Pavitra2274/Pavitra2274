@@ -25,13 +25,9 @@
 <h2 align="center"> My Progress</h2>
 
 <div align="center" style="margin-bottom: 30px;">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  /> 
-   <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  /> 
+   <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a" height="130" alt="languages graph" />
-
-<img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=12&title_color=cba6f7&border_color=45475a" height="130" alt="streak graph" />
 
 </div>
 <br><br>
