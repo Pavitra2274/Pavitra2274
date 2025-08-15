@@ -31,8 +31,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&layout=compact&card_width=320&langs_count=10&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&hide_title=false&custom_title=Most%20Used%20Languages&bg_color=0d1117&text_color=ffffff&icon_color=f1e05a&locale=en" height="130" alt="languages graph" />
 
+<img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=12&title_color=cba6f7&border_color=45475a&ring=cba6f7&currStreakNum=cba6f7" height="130" alt="streak graph" />
 
-<img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=12&title_color=cba6f7&border_color=45475a" height="130" alt="streak graph" />
 </div>
 <br><br>
 <p align="center">
