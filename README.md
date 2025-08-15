@@ -14,7 +14,8 @@
 	<a href="#">Portfolio</a> - 
 	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> - 
 	<a href="mailto:pavitrarao2004@gmail.com">Email</a> - 
-	<a href="https://medium.com/@pavitrarao2274">Medium</a>
+	<a target="_blank"href="https://medium.com/@pavitrarao2274"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://medium.com/@pavitrarao2274">Medium</a> -->
 </p>
 
 <p align="left">
@@ -22,7 +23,7 @@
 </p>
 
 <br>
-![](https://nirzak-streak-stats.vercel.app/?user=Pavitra2274&theme=dark&hide_border=false)<br/>
-
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Pavitra2274&theme=dark&hide_border=false)<br/>
+ -->
 
 
