@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-693235?style=for-the-badge" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-f09c01?style=for-the-badge" alt="Portfolio"/> <!-- 693235-->
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pavitradumpala/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
