@@ -33,7 +33,7 @@
   <img src="https://komarev.com/ghpvc/?username=Pavitra2274&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDCCEC,100:E8EAF6&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B4E3,100:D1D5F0&height=100&section=footer"/>
 </p>
 
 
