@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<p align="center">
+  <img src="images/img1.png" alt="Profile Banner" width="150"/>
+</p>
 <h1 align="center">Hi there 👋, I'm Pavitra Dumpala</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=25&pause=600&color=B28DE3&center=true&vCenter=true&width=600&lines=Self-taught+Software+Engineer;Open-Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -34,8 +37,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=12&title_color=cba6f7&border_color=45475a&cache_seconds=3600&v=2" height="130" alt="streak graph" />
 
-
-
 </div>
 <br><br>
 <p align="center">
@@ -45,13 +46,6 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B4E3,100:D1D5F0&height=100&section=footer"/>
 </p>
 
-
-
-
 <!-- <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> -->
-
-
-
-
