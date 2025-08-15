@@ -12,7 +12,8 @@
 
 <p align="center">
 	<a href="#">Portfolio</a> - 
-	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> - 
+	<a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- 	<a href="https://www.linkedin.com/in/pavitradumpala/">LinkedIn</a> -  -->
 	  <a href="mailto:pavitrarao2004@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- 	<a href="mailto:pavitrarao2004@gmail.com">Email</a> -  -->
 	<a target="_blank"href="https://medium.com/@pavitrarao2274"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
