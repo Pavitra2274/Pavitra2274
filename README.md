@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<p align="center">
+<!--<p align="center">
   <img src="Images/img1.png" alt="Profile Banner" width="250"/>
-</p>
+</p>-->
 <h1 align="center">Hi there 👋, I'm Pavitra Dumpala</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=25&pause=600&color=B28DE3&center=true&vCenter=true&width=600&lines=Self-taught+Software+Engineer;Open-Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
