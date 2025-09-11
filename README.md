@@ -34,7 +34,7 @@
  
    <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  /> -->
 
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavitra2274&layout=compact&card_width=320&langs_count=10&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a&hide_title=false&custom_title=Most%20Used%20Languages&bg_color=0d1117&text_color=ffffff&icon_color=f1e05a&locale=en&cache_seconds=3600&v=2" height="130" alt="languages graph" />
 
 <img src="https://streak-stats.demolab.com?user=Pavitra2274&locale=en&mode=daily&theme=catppuccin_mocha&hide_border=false&border_radius=12&title_color=cba6f7&border_color=45475a&cache_seconds=3600&v=2" height="130" alt="streak graph" />
