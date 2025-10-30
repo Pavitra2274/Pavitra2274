@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=25&pause=600&color=B28DE3&center=true&vCenter=true&width=600&lines=Self-taught+Software+Engineer;Open-Source+Enthusiast;Always+learning+new+things;Solving+problems+through+code" alt="Typing SVG" />
 </p>
 
-<h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi</h4>
+<h4 align="center">I'm currently an A.I. Research Intern @ DRDO (SAG), New Delhi, India</h4>
 <h4 align="center">Pursuing B.Tech from St. Andrews Institute of Technology and Management, Gurugram, Delhi</h4>
 
 <p align="center">
