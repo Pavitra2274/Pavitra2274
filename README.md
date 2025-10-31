@@ -3,7 +3,7 @@
 <!--<p align="center">
   <img src="Images/img1.png" alt="Profile Banner" width="250"/>
 </p>-->
-<h1 align="center">Hi there 👋, I'm Pavitra Dumpala</h1>
+<h1 align="center">Hi there 👋, I'm Pavitra Dumpala <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="40" ></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=25&pause=600&color=B28DE3&center=true&vCenter=true&width=600&lines=Self-taught+Software+Engineer;Open-Source+Enthusiast;Always+learning+new+things;Solving+problems+through+code" alt="Typing SVG" />
 </p>
